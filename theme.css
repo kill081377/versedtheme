@@ -1,0 +1,11 @@
+//META{"name":"Test","description":"This is my own theme still in demo!","author":"VersedShows","version":"0.0.9"}*//{}
+
+.profileBadgePremium-3kZ9Qj {
+    background-image: url(https://cdn.onlinewebfonts.com/svg/img_223168.png);
+    width: 40px;
+}
+
+.topSectionNormal-2-vo2m .profileBadgePremium-3kZ9Qj {
+    background-image: url(https://cdn.onlinewebfonts.com/svg/img_223168.png);
+    width: 40px;
+}
