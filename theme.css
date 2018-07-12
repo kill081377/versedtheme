@@ -59,8 +59,8 @@
     box-shadow: 0 0 0 2px #52efff, inset 0 0 0 1.5px #2f3136;
 }
 
-.theme-dark .embedAuthorName-3mnTWj, .theme-dark .embedFieldName-NFrena, .theme-dark .embedTitle-3OXDkz {
-    color: #07ffd3 !important;
+.theme-dark .message-group .comment .markup {
+    color: hsl(91, 86%, 60%) !important;
 }
 
 element.style {
