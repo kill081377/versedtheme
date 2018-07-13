@@ -22,19 +22,19 @@
 }
 
 .appMount-3VJmYg {
-    -ms-flex-direction: column;
-    -webkit-box-direction: normal;
-    -webkit-box-orient: vertical;
-    background-color: #202225;
-    content: "Test";
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-    overflow: hidden;
-    position: absolute;
-    width: 100vw;
+    -ms-flex-direction: column; !important
+    -webkit-box-direction: normal; !important
+    -webkit-box-orient: vertical; !important
+    background-color: #202225; !important
+    content: "Test"; !important
+    display: -webkit-box; !important
+    display: -ms-flexbox; !important
+    display: flex; !important
+    flex-direction: column; !important
+    height: 100vh; !important
+    overflow: hidden; !important
+    position: absolute; !important
+    width: 100vw; !important
 }
 
 .membersGroup-v9BXpm {
