@@ -37,6 +37,19 @@
     white-space: nowrap !important;
 }
 
+.iconBadge-2dji3k {
+    -webkit-box-shadow: none;
+    background-color: rgb(0, 251, 135);
+    border: 2px solid transparent;
+    border-radius: 8px;
+    box-shadow: none;
+    height: 8px;
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    width: 8px;
+}
+
 .size14-3iUx6q {
     font-size: 18px !important;
 }
