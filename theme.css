@@ -76,6 +76,15 @@
     color: hsl(91, 86%, 60%) !important;
 }
 
+.private-channels .status {
+    border: 2px solid rgba(153, 170, 181, 0.71);
+}
+
+.small-5Os1Bb::hover {
+    height: 40px;
+    width: 40px;
+}
+
 element.style {
     color: #11efc7 !important;
 }
