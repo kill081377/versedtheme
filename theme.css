@@ -136,7 +136,7 @@ element.style {
     top: 0 !important;
 }
 
-.accountDetails-3k9g4n:hover .discriminator {
+.accountDetails-3k9g4n .discriminator:hover {
     display: block !important;
     font-size: 13px !important;
     margin-top: 4px !important;
@@ -145,8 +145,10 @@ element.style {
 
 .accountDetails-3k9g4n .username:hover {
     display: block !important;
-    max-width: 300px !important;
+    max-width: 900px !important;
     overflow: hidden !important;
+    overflow-x: hidden;
+    overflow-y: hidden;
     text-overflow: ellipsis !important;
     white-space: nowrap !important;
 }
