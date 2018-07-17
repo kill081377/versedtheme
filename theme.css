@@ -136,14 +136,14 @@ element.style {
     top: 0 !important;
 }
 
-.accountDetails-3k9g4n .discriminator {
+.accountDetails-3k9g4n:hover .discriminator {
     display: block !important;
     font-size: 13px !important;
     margin-top: 4px !important;
     opacity: .4 !important;
 }
 
-.accountDetails-3k9g4n .username {
+.accountDetails-3k9g4n .username:hover {
     display: block !important;
     max-width: 300px !important;
     overflow: hidden !important;
