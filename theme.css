@@ -21,6 +21,10 @@
     color: hsla(0,0%,100%,.4) !important;
 }
 
+.theme-dark .channelName-3stJzi, .theme-dark .groupDM-3qU0Ks .channelName-3stJzi, .theme-dark .groupDMManaged-1GyXtq .channelName-3stJzi, .theme-dark .input-autosize-input, .theme-dark .input-autosize-input:hover {
+    color: #F04748;
+}
+
 private-channels .channel .avatar-small:hover {
     background-size: 50px 50px;
     float: left;
