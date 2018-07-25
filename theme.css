@@ -59,6 +59,14 @@ private-channels .channel .avatar-small:hover {
     white-space: nowrap !important;
 }
 
+.emoji {
+    -o-object-fit: contain;
+    height: 2.2em;
+    margin: -.1em .05em -.4em .1em;
+    object-fit: contain;
+    width: 2.20em;
+}
+
 .iconBadge-2dji3k {
     -webkit-box-shadow: none;
     background-color: rgb(0, 251, 135);
