@@ -94,8 +94,8 @@ private-channels .channel .avatar-small:hover {
     box-shadow: 0 0 0 2px #52efff, inset 0 0 0 1.5px #2f3136;
 }
 
-.theme-dark .message-group .comment .markup {
-    color: hsl(91, 86%, 60%) !important;
+.theme-dark .markup-2BOw-j {
+    color: rgba(250, 204, 26, 0.86);
 }
 
 .private-channels .status {
